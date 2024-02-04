@@ -30,4 +30,3 @@ For any additional questions or feedback, feel free to reach out.
 
 ---
 
-This READ
